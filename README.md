@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img alin="right" alt="AI" width="400" src="https://i.gifer.com/8gBc.mp4">
-
+<video width="320" height="240" controls>
+  <source src="https://i.gifer.com/8gBc.mp4" type="video/mp4"></video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavdadhruv&label=Profile%20views&color=0e75b6&style=flat" alt="chavdadhruv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavdadhruv" alt="chavdadhruv" /></a> </p>
