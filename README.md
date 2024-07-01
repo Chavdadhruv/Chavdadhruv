@@ -19,9 +19,6 @@
 - You can reach me at: dhruvchavda447@gmail.com
 - Check out my [LinkedIn](https://www.linkedin.com/in/dhruv-chavda-4a3144285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) profile to connect professionally.
 
-🌍 **Fun Fact:**
-- I can solve a Rubik's cube in under a minute! 🧩
-
 <!---
 Chavdadhruv/Chavdadhruv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
