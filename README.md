@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img alin="right" alt="AI" width="400" src="https://www.google.com/imgres?q=animated%20visual%20chart%20gif%20hd&imgurl=https%3A%2F%2Fwww.react-graph-gallery.com%2Fchart%2Fbubble-plot-dataset-transition.gif&imgrefurl=https%3A%2F%2Fwww.react-graph-gallery.com%2Fanimation&docid=QYXDJemn19-92M&tbnid=lSQZbLyIwxTy1M&vet=12ahUKEwjNvMq0oYaHAxVn3jgGHTW_Br04FBAzegQIYRAA..i&w=604&h=604&hcb=2&ved=2ahUKEwjNvMq0oYaHAxVn3jgGHTW_Br04FBAzegQIYRAA">
+<img alin="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*D0qD2pDVAMDryvLP1kAVzA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavdadhruv&label=Profile%20views&color=0e75b6&style=flat" alt="chavdadhruv" /> </p>
 
