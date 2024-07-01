@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img alin="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*D0qD2pDVAMDryvLP1kAVzA.gif">
+<img alin="right" alt="VS" width="400" src="https://www.react-graph-gallery.com/chart/bubble-plot-dataset-transition.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavdadhruv&label=Profile%20views&color=0e75b6&style=flat" alt="chavdadhruv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavdadhruv" alt="chavdadhruv" /></a> </p>
+<img alin="right" alt="AI" width="400" src="https://dev.pro/wp-content/uploads/2021/08/Homepage-gif.b6975003e97258da31aa36ac798a2b3f214b7525.gif">
 
 - 🌱 I’m currently learning **Database,DL,ML**
 
