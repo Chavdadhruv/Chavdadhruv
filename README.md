@@ -1,4 +1,5 @@
-<h1 style="background-color:red" align="center">Hi 👋, I'm @Chavdadhruv</h1>
+<h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
+<h1 style="background-color:powderblue;">This is a heading</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img alin="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*D0qD2pDVAMDryvLP1kAVzA.gif">
 <img alin="right" alt="VS" width="400" src="https://www.react-graph-gallery.com/chart/bubble-plot-dataset-transition.gif">
