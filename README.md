@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
 <hr>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chavdadhruv&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chavdadhruv&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavdadhruv&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chavdadhruv&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chavdadhruv&limit=5&theme=panda&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chavdadhruv&icon=7&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="center">A passionate Data Science from India</h3>
 <img alin="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*D0qD2pDVAMDryvLP1kAVzA.gif">
