@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
 <hr>
+<marquee width="60%" direction="up" height="100px">
+This is a sample scrolling text that has scrolls in the upper direction.
+</marquee>
 <h3 align="center">A passionate Data Science from India</h3>
 <img alin="right" alt="AI" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*D0qD2pDVAMDryvLP1kAVzA.gif">
 <img alin="right" alt="VS" width="400" src="https://www.react-graph-gallery.com/chart/bubble-plot-dataset-transition.gif">
