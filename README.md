@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm @Chavdadhruv</h1>
+.hh{
+color:"red"}
+<h1 align="center" class="hh">Hi 👋, I'm @Chavdadhruv</h1>
 <hr>
 
 # 📊 GitHub Stats:
