@@ -30,7 +30,7 @@
 <hr><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavdadhruv" alt="chavdadhruv" /></a> </p>
 <img alin="right" alt="AI" width="400" src="https://dev.pro/wp-content/uploads/2021/08/Homepage-gif.b6975003e97258da31aa36ac798a2b3f214b7525.gif">
 <hr>
-- 🌱 I’m currently learning **Database,DL,ML**
+- 🌱 I’m currently learning **Database,DL,ML,AI**
 
 - 👯 I’m looking to collaborate on **AI members**
 
